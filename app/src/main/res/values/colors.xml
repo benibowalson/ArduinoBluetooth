@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="labelBackground">#BBDEFB</color>
+    <color name="textBackground">#85C1E9</color>
+    <color name="textLabelBackground">#B2BABB</color>
+    <color name="mainBackground">#2ECC71</color>
+
+    <color name="contactNameColor">#333333</color>
+    <color name="contactNumberColor">#8c8c8c</color>
+    <color name="darkRedColor">#9A2617</color>
+    <color name="lightRedColor">#FFA07A</color>
+    <color name="darkGreenColor">#006400</color>
+    <color name="lightGreenColor">#7CFC00</color>
+    <color name="darkYellowColor">#999900</color>
+    <color name="lightYellowColor">#FFFF99</color>
+    <color name="darkBlue">#0D3D56</color>
+</resources>

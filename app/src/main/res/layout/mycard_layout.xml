@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/selectableItemBackground"
+    app:cardBackgroundColor="#F8F7ED"
+    android:layout_gravity="center"
+    app:cardElevation="4dp"
+    app:cardCornerRadius="10dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        >
+
+        <TextView
+            android:id="@+id/tvBluetoothName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@color/contactNameColor"
+            android:textSize="@dimen/text_size"
+
+            />
+
+        <TextView
+            android:id="@+id/tvBluetoothMAC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvBluetoothName"
+            android:textColor="@color/contactNumberColor"
+            android:textSize="@dimen/text_size_small"
+            />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

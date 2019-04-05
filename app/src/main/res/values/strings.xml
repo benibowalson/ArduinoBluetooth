@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArduinoBluetooth</string>
+    <string name="red_on_text">Light Up Red</string>
+    <string name="red_off_text">Put Off Red</string>
+    <string name="green_on_text">Light Up Green</string>
+    <string name="green_off_text">Put Off Green</string>
+    <string name="yellow_on_text">Light Up Yellow</string>
+    <string name="yellow_off_text">Put Off Yellow</string>
+    <string name="scan">Scan for Devices</string>
+    <string name="about_title">About AndroidBluetooth</string>
+    <string name="benibo_walson">Benibo Walson</string>
+    <string name="about_text">Connect to Arduino Micro-controller and Operate Your Equipment via Bluetooth\n\nDeveloper: Benibo Walson\nbenibowalson@gmail.com</string>
+</resources>
